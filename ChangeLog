@@ -1,5 +1,14 @@
 2019-04-11  Benjamin De Kosnik  <bdekoz@mozilla.com>
 
+	Experiment 4, mobile and desktop vs. pinterist radial display.
+	* docs/README.md: Update.
+
+	* docs/files: Add.
+	* docs/images
+	(2019-04-04-mabini-pinterist.main-x-mozilla-telemetry-probes-time-ms-timestamps-x-browsertime-firefox-gve.svg, docs/image/2019-04-10-fire-tv-4k-4k-gve-pinterist-x-mozilla-telemetry-probes-time-ms-timestamps-x-browsertime-firefox-nightly.svg): New.
+
+2019-04-11  Benjamin De Kosnik  <bdekoz@mozilla.com>
+
 	* docs/_config.yml: Remove theme.
 
 2019-04-11  Benjamin De Kosnik  <bdekoz@mozilla.com>
