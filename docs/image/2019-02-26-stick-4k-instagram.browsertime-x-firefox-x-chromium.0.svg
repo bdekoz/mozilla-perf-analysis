@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+     id="svg2" xml:space="preserve"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+x="0px" y="0px"
+width="1920px" height="1080px"
+viewBox="0 0 1920 1080" enable-background="new 0 0 1920 1080">
+
+<title>2019-02-26-stick-4k-instagram.browsertime-x-firefox-x-chromium</title>
+<defs>
+    <filter id="gblur10" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="10" />
+      <feOffset dx="0" dy="0" />
+     </filter>
+    <filter id="gblur20" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="20" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+    <filter id="gblur10y" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0, 10" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+    <filter id="gblur20y" x="0" y="0">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="0, 20" />
+      <feOffset dx="0" dy="0" />
+    </filter>
+  </defs>
+
+<g id="mozilla viz experiment 20190102.v3">
+</g>
+<g id="mozilla inset radial svg" transform="translate(600,180) scale(3.89189)">
+ <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="49mm"
+   height="49mm"
+   viewBox="0 0 49 49"
+   version="1.1"
+   id="svg6884">
+  <defs
+     id="defs6878">
+    <marker
+       style="overflow:visible"
+       id="marker1162"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#808080;stroke-width:1pt;stroke-opacity:1;fill:#7a7a7a;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path977" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path1206"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata6881">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="circle27"
+     d="m 24.502087,0.6854185 c 13.151273,0 23.8125,10.6612185 23.8125,23.8124995 0,13.151281 -10.661227,23.8125 -23.8125,23.8125 -13.151281,0 -23.8124999,-10.661219 -23.8124999,-23.8125 0,-3.287821 0.6663267,-6.420011 1.8713053,-9.268899 C 3.7658684,12.380131 5.509499,9.8145462 7.6641069,7.6599383 9.8187148,5.5053304 12.3843,3.7616998 15.233188,2.5567238"
+     style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.52916664;stroke-opacity:1" />
+  <path
+     id="path1062"
+     d="M 14.383341,3.0661359 15.265987,2.6776831"
+     style="fill:#7a7a7a;fill-opacity:1;stroke:#808080;stroke-width:0.42333332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1162)" />
+</svg>
+
+</g>
+<text x="960" y="180" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-90,960,180)">5         -> </text>
+<text x="960" y="115" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-90,960,115)">fetchStart</text>
+<text x="960" y="180" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-90,960,180)">13        -> </text>
+<text x="960" y="115" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-90,960,115)">domainLookupTime</text>
+<text x="966" y="180" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-89,966,180)">47        -> </text>
+<text x="967" y="115" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-89,967,115)">domainLookupStart</text>
+<text x="972" y="180" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-88,972,180)">60        -> </text>
+<text x="978" y="115" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-87,978,115)">connectStart</text>
+<text x="971" y="115" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-88,971,115)">domainLookupEnd</text>
+<text x="978" y="180" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-87,978,180)">101       -> </text>
+<text x="982" y="115" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-87,982,115)">secureConnectionStart</text>
+<text x="985" y="180" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-86,985,180)">133       -> </text>
+<text x="989" y="116" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-86,989,116)">serverConnectionTime</text>
+<text x="997" y="181" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-84,997,181)">193       -> </text>
+<text x="1004" y="117" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-84,1004,117)">requestStart</text>
+<text x="1053" y="192" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-75,1053,192)">435       -> </text>
+<text x="1070" y="129" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-75,1070,129)">serverResponseTime</text>
+<text x="1094" y="206" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-68,1094,206)">628       -> </text>
+<text x="1126" y="148" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-67,1126,148)">backEndTime</text>
+<text x="1119" y="145" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-68,1119,145)">responseEnd</text>
+<text x="1112" y="143" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-69,1112,143)">responseStart</text>
+<text x="1161" y="241" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-56,1161,241)">974       -> </text>
+<text x="1197" y="187" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-56,1197,187)">firstPaint</text>
+<text x="1293" y="405" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-22,1293,405)">1,941     -> </text>
+<text x="1355" y="384" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-21,1355,384)">domInteractive</text>
+<text x="1352" y="377" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-22,1352,377)">domInteractiveTime</text>
+<text x="1298" y="416" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-20,1298,416)">1,975     -> </text>
+<text x="1360" y="398" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-19,1360,398)">domContentLoadedTime</text>
+<text x="1358" y="391" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-20,1358,391)">domContentLoadedEventStart</text>
+<text x="1298" y="416" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-20,1298,416)">1,985     -> </text>
+<text x="1359" y="394" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-20,1359,394)">domContentLoadedEventEnd</text>
+<text x="728" y="264" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(230,728,264)">9,025     -> </text>
+<text x="686" y="214" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(230,686,214)">frontEndTime</text>
+<text x="848" y="197" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(252,848,197)">9,653     -> </text>
+<text x="835" y="133" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(253,835,133)">domComplete</text>
+<text x="828" y="135" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(252,828,135)">pageLoadTime</text>
+<text x="821" y="138" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(251,821,138)">loadEventStart</text>
+<text x="866" y="192" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(255,866,192)">9,723     -> </text>
+<text x="853" y="128" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(255,853,128)">duration</text>
+<text x="846" y="130" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(254,846,130)">loadEventEnd</text>
+<g id="mozilla inset radial svg" transform="translate(852,432) scale(1.16757)">
+ <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="49mm"
+   height="49mm"
+   viewBox="0 0 49 49"
+   version="1.1"
+   id="svg6884">
+  <defs
+     id="defs6878">
+    <marker
+       style="overflow:visible"
+       id="marker1162"
+       refX="0.0"
+       refY="0.0"
+       orient="auto">
+      <path
+         transform="scale(0.8)"
+         style="fill-rule:evenodd;stroke:#808080;stroke-width:1pt;stroke-opacity:1;fill:#7a7a7a;fill-opacity:1"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path977" />
+    </marker>
+    <marker
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path1206"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="scale(0.8)" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata6881">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <path
+     id="circle27"
+     d="m 24.502087,0.6854185 c 13.151273,0 23.8125,10.6612185 23.8125,23.8124995 0,13.151281 -10.661227,23.8125 -23.8125,23.8125 -13.151281,0 -23.8124999,-10.661219 -23.8124999,-23.8125 0,-3.287821 0.6663267,-6.420011 1.8713053,-9.268899 C 3.7658684,12.380131 5.509499,9.8145462 7.6641069,7.6599383 9.8187148,5.5053304 12.3843,3.7616998 15.233188,2.5567238"
+     style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:0.52916664;stroke-opacity:1" />
+  <path
+     id="path1062"
+     d="M 14.383341,3.0661359 15.265987,2.6776831"
+     style="fill:#7a7a7a;fill-opacity:1;stroke:#808080;stroke-width:0.42333332;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1162)" />
+</svg>
+
+</g>
+<text x="1056" y="490" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-27,1056,490)">1,793     -> </text>
+<text x="1116" y="466" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-25,1116,466)">responseEnd</text>
+<text x="1114" y="461" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-27,1114,461)">pageDownloadTime</text>
+<text x="1111" y="456" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(-29,1111,456)">serverResponseTime</text>
+<text x="1049" y="600" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(34,1049,600)">3,504     -> </text>
+<text x="1096" y="646" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(38,1096,646)">domInteractive</text>
+<text x="1099" y="641" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(36,1099,641)">domInteractiveTime</text>
+<text x="1103" y="636" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(34,1103,636)">domContentLoadedTime</text>
+<text x="1106" y="631" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(32,1106,631)">domContentLoadedEventEnd</text>
+<text x="1109" y="626" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(30,1109,626)">domContentLoadedEventStart</text>
+<text x="1007" y="637" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(64,1007,637)">4,365     -> </text>
+<text x="1035" y="695" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(64,1035,695)">frontEndTime</text>
+<text x="893" y="625" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(128,893,625)">6,156     -> </text>
+<text x="853" y="676" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(128,853,676)">domComplete</text>
+<text x="893" y="625" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(128,893,625)">6,157     -> </text>
+<text x="851" y="674" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(129,851,674)">pageLoadTime</text>
+<text x="855" y="678" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(127,855,678)">loadEventStart</text>
+<text x="892" y="623" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(129,892,623)">6,197     -> </text>
+<text x="848" y="672" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(130,848,672)">duration</text>
+<text x="853" y="676" text-anchor="start"  font-family="Calling Code" font-size="9" text-align="left" font-weight="200" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0" transform="rotate(128,853,676)">loadEventEnd</text>
+<text x="100" y="100" text-anchor="start"  font-family="Zilla Slab" font-size="14" text-align="left" font-weight="500" font-style="normal"  style="fill:rgb(128,128,128); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">Mozilla/5.0 (Linux; Android 7.1.2)</text>
+<text x="100" y="114" text-anchor="start"  font-family="Zilla Slab" font-size="14" text-align="left" font-weight="500" font-style="normal"  style="fill:rgb(128,128,128); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0"> </text>
+<text x="100" y="128" text-anchor="start"  font-family="Zilla Slab" font-size="14" text-align="left" font-weight="500" font-style="normal"  style="fill:rgb(128,128,128); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">Firefox x WebView (System)</text>
+<text x="100" y="142" text-anchor="start"  font-family="Zilla Slab" font-size="14" text-align="left" font-weight="500" font-style="normal"  style="fill:rgb(128,128,128); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0"> </text>
+<text x="100" y="156" text-anchor="start"  font-family="Zilla Slab" font-size="14" text-align="left" font-weight="500" font-style="normal"  style="fill:rgb(128,128,128); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">1 uri count</text>
+<text x="100" y="170" text-anchor="start"  font-family="Zilla Slab" font-size="14" text-align="left" font-weight="500" font-style="normal"  style="fill:rgb(128,128,128); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">https://www.instagram.com/justintimberlake/</text>
+<text x="100" y="184" text-anchor="start"  font-family="Zilla Slab" font-size="14" text-align="left" font-weight="500" font-style="normal"  style="fill:rgb(128,128,128); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">2019-02-26T17:41:30-08:00</text>
+<text x="100" y="490" text-anchor="start"  font-family="Zilla Slab" font-size="48" text-align="left" font-weight="500" font-style="normal"  style="fill:rgb(255,0,0); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">9,723 ms</text>
+<text x="100" y="510" text-anchor="start"  font-family="Zilla Slab" font-size="14" text-align="left" font-weight="500" font-style="normal"  style="fill:rgb(128,128,128); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">2019-02-26-stick-4k-instagram.browsertime-x-firefox</text>
+<text x="100" y="590" text-anchor="start"  font-family="Zilla Slab" font-size="48" text-align="left" font-weight="500" font-style="normal"  style="fill:rgb(0,0,255); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">6,197 ms</text>
+<text x="100" y="610" text-anchor="start"  font-family="Zilla Slab" font-size="14" text-align="left" font-weight="500" font-style="normal"  style="fill:rgb(128,128,128); fill-opacity:1; stroke:rgb(255,255,255); stroke-opacity:0; stroke-width:0">2019-02-26-stick-4k-instagram.browsertime-x-chrome</text>
+</svg>
+
