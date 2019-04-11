@@ -8,7 +8,7 @@ Mobile Page Load
 
 <img src="image/2019-04-10-fire-tv-4k-4k-gve-pinterist-x-mozilla-telemetry-probes-time-ms-timestamps-x-browsertime-firefox-nightly.svg?sanitize=true" height="713" width="1267">
 
-Data via <a href="files/2019-04-10-fire-tv-4k-4k-gve-pinterist-x-mozilla-telemetry-probes-time-ms-timestamps.csv">telemetry csv</a> and <a href="files/2019-04-10-fire-tv-4k-4k-gve-pinterist-x-firefox.csv">browsertime csv</a>
+Data via [telemetry csv](files/2019-04-10-fire-tv-4k-4k-gve-pinterist-x-mozilla-telemetry-probes-time-ms-timestamps.csv) and [browsertime csv](files/2019-04-10-fire-tv-4k-4k-gve-pinterist-x-firefox.csv)
 
 ```
 Desktop Page Load

@@ -1,5 +1,9 @@
 2019-04-11  Benjamin De Kosnik  <bdekoz@mozilla.com>
 
+	* docs/README.md: Use markdown links for csv files.
+
+2019-04-11  Benjamin De Kosnik  <bdekoz@mozilla.com>
+
 	Experiment 4, mobile and desktop vs. pinterist radial display.
 	* docs/README.md: Update.
 
