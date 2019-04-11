@@ -1,5 +1,10 @@
 2019-04-11  Benjamin De Kosnik  <bdekoz@mozilla.com>
 
+	* docs/README.md: Use markdown links for csv files, redux, fix image
+	link path.
+
+2019-04-11  Benjamin De Kosnik  <bdekoz@mozilla.com>
+
 	* docs/README.md: Use markdown links for csv files.
 
 2019-04-11  Benjamin De Kosnik  <bdekoz@mozilla.com>

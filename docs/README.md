@@ -14,8 +14,8 @@ Data via [telemetry csv](files/2019-04-10-fire-tv-4k-4k-gve-pinterist-x-mozilla-
 Desktop Page Load
 ```
 
-<img src="image/image/2019-04-04-mabini-pinterist.main-x-mozilla-telemetry-probes-time-ms-timestamps-x-browsertime-firefox-gve.svg?sanitize=true" height="713" width="1267">
+<img src="image/2019-04-04-mabini-pinterist.main-x-mozilla-telemetry-probes-time-ms-timestamps-x-browsertime-firefox-gve.svg?sanitize=true" height="713" width="1267">
 
-Data via <a href="files/2019-04-04-mabini-pinterist.main-x-mozilla-telemetry-probes-time-ms-timestamps.csv">telemetry csv</a> and <a href="files/2019-04-04-mabini-pinterist-x-firefox.csv">browsertime csv</a>
+Data via [telemetry csv](files/2019-04-04-mabini-pinterist.main-x-mozilla-telemetry-probes-time-ms-timestamps.csv) and [browsertime csv](files/2019-04-04-mabini-pinterist-x-firefox.csv)
 
 **COMMENTARY**
