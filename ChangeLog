@@ -1,7 +1,11 @@
 2019-04-11  Benjamin De Kosnik  <bdekoz@mozilla.com>
 
-	* docs/README.md: Use markdown links for csv files, redux, fix image
-	link path.
+	* docs/README.md: Moved placement of linked-to-data files on page.
+
+2019-04-11  Benjamin De Kosnik  <bdekoz@mozilla.com>
+
+	* docs/README.md: Use markdwhiteown links for csv files, redux,
+	fix image link path.
 
 2019-04-11  Benjamin De Kosnik  <bdekoz@mozilla.com>
 
